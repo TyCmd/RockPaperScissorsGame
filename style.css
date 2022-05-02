@@ -1,0 +1,16 @@
+/* importing fonts from google, thanks to google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+body {
+    margin: auto;
+    background-color: #282a36;
+    color: #50fa7b;
+    font-family: 'Dancing Script', cursive;
+    font-size: 400%;
+}
+.title {
+    text-align: center;
+}
+.btns {
+    text-align: center;
+}
